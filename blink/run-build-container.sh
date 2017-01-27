@@ -1,0 +1,1 @@
+docker run -it --privileged -v /dev:/dev -v code:/code/blink nodebotanist-esp32
